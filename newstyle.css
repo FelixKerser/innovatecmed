@@ -365,3 +365,76 @@
 .ppd-sblock img{
     transform: rotate(30deg);
 }
+
+.widguk-el{
+    display:flex;
+}
+
+.wef-img{
+    border-radius: 25px;
+    width: 394px;
+    height: 379px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+.we-fsection{
+    margin-right:45px;
+}
+
+.wes-nazwa-pred{
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    max-width: 80%;
+}
+
+.wes-who{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top:40px;
+}
+
+.wes-dolznosc{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: #555;
+    margin-top:5px;
+    margin-bottom: 120px;
+}
+
+.wes-href span{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.wes-href{
+    text-decoration: none;
+    position:relative;
+}
+
+.we-ssection{
+    padding:20px 0;
+}
+
+.widguki-ul{
+    margin-top:60px;
+}
+
+.widguk-el{
+    margin:40px 0;
+}
+
+.wes-href::after{
+    content:'';
+    position:absolute;
+    left:120%;
+    background-image: url(images/arroww.svg);
+    width:130%;
+    height:120%;
+    background-repeat: no-repeat;
+}
