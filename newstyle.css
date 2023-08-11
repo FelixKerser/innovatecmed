@@ -438,3 +438,33 @@
     height:120%;
     background-repeat: no-repeat;
 }
+
+.contact-raspisanie{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.small-hr-text{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top:35px;
+    margin-bottom:16px;
+}
+
+.telefon-contact{
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    margin-right:16px;
+}
+
+.hr-contact-telefon__wrapper{
+    display: flex;
+    margin-top:10px;
+}
+
+.hr-contact-telefon__wrapper img{
+    margin-right:10px;
+}
