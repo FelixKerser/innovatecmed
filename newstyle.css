@@ -468,3 +468,30 @@
 .hr-contact-telefon__wrapper img{
     margin-right:10px;
 }
+
+.wes-status{
+    padding:13px 20px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    color: #555;
+    background-color:rgba(105, 105, 105, .3);
+    border-radius: 12px;
+    width: fit-content;
+    margin-bottom:16px;
+}
+
+.wess-active{
+    color:white;
+    background-color:rgba(244, 92, 6, 1);
+}
+
+.wes-info-event{
+    color: #555;
+    margin-top:20px;
+    margin-bottom:40px;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px /* 26px */
+}
