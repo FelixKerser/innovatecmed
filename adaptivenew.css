@@ -1,0 +1,294 @@
+@media screen and (max-width:980px) {
+    .fba-sections{
+        flex-direction: column;
+        align-items: center;
+        margin-bottom:100px;
+    }
+
+    .fba-fsection{
+        margin-bottom:25px;
+        max-width: 100%;
+    }
+    .fbaf-grid{
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        gap: 40px 0px;
+        grid-template-areas:
+            ".";
+    }
+
+    .first-block-aboutus h1{
+        font-size: 35px;
+    }
+
+    .op__il{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .opi__buttons{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .opi__details{
+        margin-right:0;
+        margin-bottom:15px;
+        text-align: center;
+    }
+
+    .opi__zapyt{
+        text-align:center;
+    }
+
+    .opi__description{
+        width:100%;
+    }
+    
+    .opi__title{
+        font-size: 25px;
+    }
+
+    .opi__img{
+        margin-right: 0;
+    }
+
+    .jescze-btn{
+        margin-bottom:110px;
+    }
+
+    .project-page__wrapper h1{
+        max-width:100%;
+        font-size: 32px;
+    }
+
+    .project-date{
+        font-size:18px;
+    }
+
+    .fbipp-texts{
+        grid-auto-columns: 1fr;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 30px 0px;
+        grid-template-areas: ".";
+    }
+
+    .fbipp-fblock__wrapper{
+        flex-direction: column;
+    }
+
+    .fbippsb-przyczyny{
+        grid-auto-columns: 1fr;
+    grid-auto-rows: 1fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px 0px;
+    grid-template-areas: ".";
+    margin-top: 30px;
+    width: 100%;
+    }
+
+    .fbippsb-przyczyna{
+        margin:0;
+    }
+
+    .fbippsb-smalltext{
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 500;
+    }
+
+    .fbipp-fblock{
+        margin-bottom:20px;
+    }
+
+    .fbipp-fblock__wrapper{
+        margin-top: 40px;
+    }
+
+    .fbippsb-text{
+        width:100%;
+    }
+
+    .fbipp-sblock__wrapper{
+        flex-direction: column;
+    }
+
+    .sfbipp-fblock{
+        width:100%;
+        margin-bottom:30px;
+    }
+    
+    .doctor-project{
+        margin:0;
+        width:100%;
+    }
+    
+    .first-kawyczky span, .second-kawyczky span{
+        font-size: 70px;
+    }
+    
+    .product-page-disclaimer{
+        flex-direction: column-reverse;
+    }
+
+    .ppd-fblock{
+        width:100%;
+        margin-top:22px;
+    }
+
+    .product-page-disclaimer__wrapper{
+        margin-bottom:120px;
+    }
+
+    .widguk-el{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .we-fsection{
+        margin-right:0;
+    }
+
+    .wes-dolznosc{
+        margin-bottom:12px;
+    }
+
+    .wes-who{
+        margin-right:14px;
+        margin-bottom:10px;
+        margin-top:15px;
+    }
+
+    .widguk-el{
+        flex-direction: column;
+    }
+
+    .wes-info-event{
+        margin-bottom:20px;
+    }
+
+    .wes-status{
+        font-size: 17px;
+        padding: 9px 20px;
+    }
+
+    .telefon-contact{
+        font-size: 24px;
+    }
+
+    .hr-contact-telefon__wrapper{
+        align-items: center;
+    }
+
+    .op-h1 h1{
+        font-size: 32px;
+    }
+
+    .our-projects__wrapper{
+        margin-bottom:80px;
+    }
+
+    .h404__wrapper{
+        align-items: flex-start;
+    }
+
+    .h404__ul{
+        padding-left:0;
+        flex-wrap: wrap;
+    }
+
+    .h404-back{
+        top: 85%;
+        position: absolute;
+    }
+
+    .w404__wrapper{
+        position:relative;
+    }
+
+    .h404__wrapper{
+        height: 70vh;
+    }
+
+    .h404__ul li{
+        margin-bottom:16px;
+    }
+
+    .service-blocks-grid{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+        gap: 20px 20px;
+        grid-template-areas:
+            ".";
+    }
+
+    .sbgb-img img{
+        width:60px;
+    }
+
+    .rejestr-head{
+        display:block;
+    }
+
+    .ew-ssectiob{
+        display:none;
+    }
+
+    .main-block-zag{
+        padding: 12px 30px;
+    }
+
+    .ewf-ftext, .ewf-stext{
+        width: 100%;
+    }
+
+    .main-block-zag span{
+        font-size: 24px;
+    }
+
+    .status-head{
+        font-size: 15px;
+        padding: 10px 16px;
+    }
+
+    .nazwis{
+        display:flex;
+        flex-direction: column-reverse;
+    }
+
+    .nazwa-place{
+        margin: 12px 0 7px 0;
+    }
+
+    .more-events .nazwa-czas{
+        margin:0;
+    }
+
+    .more-events .nazwa-dop{
+        color: #131313;
+        font-size: 25px;
+    }
+
+}
+
+@media screen and (max-width:680px){
+    .owl-zepa-product .owl-stage-outer{
+        max-width: initial !important;
+    }
+}
+
+@media screen and (max-width:660px){
+    .opi-mg{
+        width:95vw;
+    }
+
+    .wef-img{
+        width:95vw;
+    }
+}
